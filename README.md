@@ -1,4 +1,4 @@
-**Hello World!**
+**Hello World!** 
 ---------
 
 
@@ -10,3 +10,8 @@ My name is *Colin P. Stimson* , I am **23** years old and I am a student at the 
 ### What is this page for??
 
 Here you will learn the basics about me, my skill set, interests, and other [general information](https://github.com/sinapticgenesis/Colin-Stimson/blob/main/Genreal%20Information.md) pertinent to understanding who I am , and what it is I am capable of doing.
+
+
+### *FIND OUT MORE!*
+
+[general information](https://github.com/sinapticgenesis/Colin-Stimson/blob/main/Genreal%20Information.md) // [Skills](https://github.com/sinapticgenesis/Colin-Stimson/blob/main/Skills.md) // [Education](https://github.com/sinapticgenesis/Colin-Stimson/blob/main/Education.md) // [Work](https://github.com/sinapticgenesis/Colin-Stimson/blob/main/Work.md) // [ReadMe (Home)](https://github.com/sinapticgenesis/Colin-Stimson/blob/main/README.md)
