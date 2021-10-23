@@ -18,4 +18,8 @@
 * Extensive community volunteering
 * Campaigned for Public Office
 
+
+![images](https://user-images.githubusercontent.com/89496259/138541106-e8bfb35f-d5d9-424b-85d9-a9e4d0570bcc.jpg)
+
 [general information](https://github.com/sinapticgenesis/Colin-Stimson/blob/main/Genreal%20Information.md) // [Skills](https://github.com/sinapticgenesis/Colin-Stimson/blob/main/Skills.md) // [Education](https://github.com/sinapticgenesis/Colin-Stimson/blob/main/Education.md) // [Work](https://github.com/sinapticgenesis/Colin-Stimson/blob/main/Work.md) // [ReadMe (Home)](https://github.com/sinapticgenesis/Colin-Stimson/blob/main/README.md)
+
