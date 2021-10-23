@@ -1,4 +1,4 @@
-# * ABOUT ME*
+# **ABOUT ME**
 -----
 I spend most of my time either working, studying, or playing with my dog. However I do have certain hobbies which I enjoy indulging in. 
 
