@@ -4,7 +4,7 @@
 
 ### Introduction // Who am I?
 
-My name is *Colin P. Stimson* , I am **23** years old and I am a student at the University of Missouri. I study *Information Technology*, *History*, and plan to attend *Law School* after achieving my Bachelor's in these fields.  
+My name is *Colin* , I am 27 years old and I am a student. I study *Information Technology*, *History*, and plan to attend *Law School* after achieving my Bachelor's in these fields.  
 
 
 ### What is this page for??
